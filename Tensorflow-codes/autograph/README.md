@@ -55,7 +55,7 @@ for step in range(1000):
         var_list=ReLU_Layer.weights+Logit_Layer.weights)
 ```
 
-#How to
+# How to
 
 Run the ipynb file in google colab or jupyter notebook
 
