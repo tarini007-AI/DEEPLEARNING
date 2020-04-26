@@ -55,10 +55,7 @@ for step in range(1000):
         var_list=ReLU_Layer.weights+Logit_Layer.weights)
 ```
 
-# HowTO
+#How to
 
-```
-python main.py
-```
+Run the ipynb file in google colab or jupyter notebook
 
-and you will see some computation cost between static graph and dynamic graph.
